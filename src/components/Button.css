@@ -1,0 +1,11 @@
+.button.triple{
+  grid-column: span 3;
+}
+
+.button.double{
+  grid-column: span 2;
+}
+
+.button.operation{
+  background-color: aqua;
+}
